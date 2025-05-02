@@ -21,5 +21,5 @@ title: Hello
 
 bio: Aspiring future docoral candidate in computational cognitive neuroscience, particularly interested in the neural architecture of human decision-making. Currently researching learning, memory, and emotion regulation through computational neuroscience and neuroinformatics (and lots of Python tutorials).
 
----
-portfolio coming soon.
+
+--- 

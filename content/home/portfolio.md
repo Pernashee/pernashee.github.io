@@ -25,20 +25,20 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+  #filter_button:
+   # - name: All
+   #   tag: '*'
+   # - name: Machine Learning
+   #   tag: ML
+   # - name: Computer Vision
+   #   tag: CV
+   # - name: NLP
+   #   tag: NLP
 
-design:
-  columns: '1'
-  view: masonry
-  flip_alt_rows: true
-  background: {}
-  spacing: {padding: [0, 0, 0, 0]}
+#design:
+#  columns: '1'
+#  view: masonry
+#  flip_alt_rows: true
+#  background: {}
+#  spacing: {padding: [0, 0, 0, 0]}
 ---
