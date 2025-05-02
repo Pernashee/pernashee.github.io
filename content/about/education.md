@@ -36,7 +36,7 @@ experience:
     #company_logo: org-x
     location: Amherst, MA, USA
     date_start: '2012-08-01'
-    date_end: '2016-5-01'
+    date_end: '2016-05-01'
 
 design:
   columns: '1'
