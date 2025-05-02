@@ -7,9 +7,11 @@
 
 appearance:
   theme_day: custom
+  active: false
   theme_night: custom
-  font: minimal
-  font_size: L
+  active: true
+  font: arev
+  font_size: M
 
 # SEO
 
