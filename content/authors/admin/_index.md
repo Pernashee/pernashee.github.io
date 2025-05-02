@@ -61,6 +61,4 @@ social:
 # {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
 
 ---
-Working toward a doctorate in computational cognitive neuroscience, particularly interested in the neural architecture of human decision-making. Currently researching learning, memory, and emotion regulation through computational neuroscience and neuroinformatics (and lots of Python tutorials).
-
 _site under development -- portfolio & CV coming soon._
