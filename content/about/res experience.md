@@ -7,7 +7,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title: Research Experience
 subtitle:
@@ -29,16 +29,16 @@ experience:
     location: New York
     date_start: '2024-08-01'
     date_end: ''
-    description: Behavioral and molecular neuroscience of learning and memory
+    description: Behavioral and molecular neuroscience,  learning and memory
 
   - title: Researcher & Lab Coordinator
     company: Emotion Regulation Lab, Hunter College
     company_url: ''
     #company_logo: org-x
     location: New York
-    date_start: '2013-08-01'
+    date_start: '2023-08-01'
     date_end: ''
-    description: Cognitive neuropsychology of emotion and attention regulation
+    description: Cognitive neuropsychology, emotion and attention regulation
 
 design:
   columns: '1'
