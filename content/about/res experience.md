@@ -2,14 +2,14 @@
 # An instance of the Experience widget.
 # Documentation: https://docs.hugoblox.com/page-builder/
 widget: experience
-
+active: false
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
-title: Education
+title: Research Experience
 subtitle:
 
 # Date format for experience
@@ -22,21 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Neuroscience, Psychology, Statistics
-    company: Hunter College, CUNY
+  - title: CEO
+    company: GenCoin
     company_url: ''
-    #company_logo: org-x
-    location: New York, NY, USA
-    date_start: '2023-05-01'
-    date_end: '2024-12-01'
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
-  - title: BSc, Resource Economics
-    company: University of Massachusetts, Amherst
+  - title: Professor of Semiconductor Physics
+    company: University X
     company_url: ''
-    #company_logo: org-x
-    location: Amherst, MA, USA
-    date_start: '2012-08-01'
-    date_end: '2016-5-31'
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '1'

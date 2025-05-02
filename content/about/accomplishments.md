@@ -2,12 +2,12 @@
 # An instance of the Accomplishments widget.
 # Documentation: https://docs.hugoblox.com/page-builder/
 widget: accomplishments
-
+active: false
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'

@@ -2,14 +2,14 @@
 # An instance of the Experience widget.
 # Documentation: https://docs.hugoblox.com/page-builder/
 widget: experience
-
+active: false
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 40
 
-title: Experience
+title: Professional Experience
 subtitle:
 
 # Date format for experience
