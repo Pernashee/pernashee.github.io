@@ -1,10 +1,8 @@
 ---
-active: false 
-
-title: Cosmetics Semantic Search
-summary: Write about your project here...
-tags:
-  - NLP
-date: 2022-01-01
-external_link: http://github.com
+title: Neuromatch Academy
+summary: Computational Cognitive Neuroscience Projects
+#tags:
+ # - CCN
+#date: 2024-01-01
+# external_link: http://github.com
 ---

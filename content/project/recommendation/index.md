@@ -1,10 +1,8 @@
 ---
-active: false 
-
-title: Recommendation Systems
-summary: Write about your project here...
+title: Functional Connectivity, Theta Wave
+summary: EEG neuroinformatics
 tags:
-  - ML
-date: 2022-01-01
-external_link: http://github.com
+  - Neuroinformatics
+#date: 2022-01-01
+#external_link: http://github.com
 ---
