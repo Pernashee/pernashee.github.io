@@ -23,19 +23,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Researcher & Project Lead
-    company: Serrano Lab, Hunter College 
+    company: PI - Dr. Peter Serrano
     company_url: ''
     # company_logo: org-gc
-    location: New York
+    location: Hunter College, New York
     date_start: '2024-08-01'
     date_end: ''
     description: Behavioral and molecular neuroscience,  learning and memory
 
   - title: Researcher & Lab Coordinator
-    company: Emotion Regulation Lab, Hunter College
+    company: PI - Dr. Tracy Dennis-Tiwary
     company_url: ''
     #company_logo: org-x
-    location: New York
+    location: Hunter College, New York
     date_start: '2023-08-01'
     date_end: ''
     description: Cognitive neuropsychology, emotion and attention regulation
