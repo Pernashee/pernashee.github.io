@@ -43,7 +43,7 @@ social:
     link: 'mailto:pernashee@gmail.com' # For a direct email link, use "mailto:test@example.org".
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/pernashee
+    link: https://instagram.com/pernashee_d
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
