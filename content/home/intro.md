@@ -1,8 +1,6 @@
 ---
 # Use the Intro widget of the Blog template
 widget: about.avatar
-title: Hello
-bio: Aspiring future docoral candidate in computational cognitive neuroscience, particularly interested in the neural architecture of human decision-making. Currently researching learning, memory, and emotion regulation through computational neuroscience and neuroinformatics (and lots of Python tutorials).
 
 # This file represents a page section.
 headless: true
@@ -19,6 +17,9 @@ author: admin
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
 
+title: Hello
+
+bio: Aspiring future docoral candidate in computational cognitive neuroscience, particularly interested in the neural architecture of human decision-making. Currently researching learning, memory, and emotion regulation through computational neuroscience and neuroinformatics (and lots of Python tutorials).
 
 ---
 portfolio coming soon.

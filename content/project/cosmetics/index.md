@@ -1,4 +1,6 @@
 ---
+active: false 
+
 title: Cosmetics Semantic Search
 summary: Write about your project here...
 tags:
