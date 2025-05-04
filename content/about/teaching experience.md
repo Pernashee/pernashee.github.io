@@ -7,9 +7,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 40
 
-title: Research Experience
+title: Teaching Experience
 subtitle:
 
 # Date format for experience
@@ -22,23 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Researcher / Project Lead, Behavioral & Molecular Neuroscience
-    company: Principal Investigator - Dr. Peter Serrano
-    company_url: ''
-    # company_logo: org-gc
-    location: Hunter College, New York
-    date_start: '2024-08-01'
-    date_end: ''
-    description: '' 
-
-  - title: Researcher / Lab Coordinator, Emotion & Attention Regulation 
-    company: Principal Investigator - Dr. Tracy Dennis-Tiwary
-    company_url: ''
-    #company_logo: org-x
-    location: Hunter College, New York
-    date_start: '2023-08-01'
-    date_end: ''
-    description: ''
+  - title: Python Bootcamp
+    company: Hunter College
+    #company_url: ''
+    #company_logo: org-gc
+    location: New York
+    date_start: '2025-04-01'
+    #date_end: ''
+    description: Teaching undergraduate and graduate students Python. 
 
 design:
   columns: '1'
