@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Adjunct Lecturer - Statistics for Psychology Research
+    company: Hunter College
+    #company_url: ''
+    #company_logo: org-gc
+    location: New York
+    date_start: '2026-01-01'
+    #date_end: ''
+    description: Teaching undergraduate students statistics (z-test to chi-square).
+    
   - title: Python Bootcamp
     company: Hunter College
     #company_url: ''
