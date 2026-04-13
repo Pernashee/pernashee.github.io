@@ -22,11 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Incoming PhD student - Cogntiive Psychology 
+    company: The Grad Center, CUNY
+    company_url: ''
+    #company_logo: org-x
+    location: New York, NY
+    date_start: '2026-09-01'
+    date_end: '2031-01-01'
+    
   - title: Neuroscience, Psychology, Statistics
     company: Hunter College, CUNY
     company_url: ''
     #company_logo: org-x
-    location: New York, NY, USA
+    location: New York, NY
     date_start: '2023-05-01'
     date_end: '2024-12-01'
 
@@ -34,7 +42,7 @@ experience:
     company: University of Massachusetts, Amherst
     company_url: ''
     #company_logo: org-x
-    location: Amherst, MA, USA
+    location: Amherst, MA
     date_start: '2012-08-01'
     date_end: '2016-05-01'
 
