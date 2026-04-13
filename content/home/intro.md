@@ -19,4 +19,4 @@ author: admin
 
 --- 
 
-Working toward a doctorate in computational cognitive neuroscience, particularly interested in the neural architecture of human decision-making. Currently researching learning, memory, and emotion regulation through computational neuroscience and neuroinformatics (and lots of Python tutorials).
+Incoming PhD student in Cognitive Psychology at The Graduate Center, CUNY (NY). Adjunct lecturer of statistics for psychology research. Currently studying decision-making and computational ethology (and lots of Python tutorials).
