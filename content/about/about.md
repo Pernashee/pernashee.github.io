@@ -18,5 +18,4 @@ weight: 10
 author: admin
 ---
 
-Working toward a computational cognitive neuroscience to study the neural architecture of human decision-making. Currently researching learning, memory, and emotion regulation through computational neuroscience and neuroinformatics (and lots of Python tutorials).
-
+Incoming PhD student in Cognitive Psychology at The Graduate Center, CUNY (NY). Adjunct lecturer of statistics for psychology research. Currently studying decision-making and computational ethology (and lots of Python tutorials).
