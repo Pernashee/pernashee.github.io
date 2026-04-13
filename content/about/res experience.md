@@ -22,8 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Independent Researcher, Human Decision-Making
+    company: PI - Dr. Evan Russek
+    company_url: ''
+    # company_logo: org-gc
+    location: Hunter College, New York
+    date_start: '2025-09-01'
+    date_end: ''
+    description: ''
+    
   - title: Researcher / Project Lead, Behavioral & Molecular Neuroscience
-    company: Principal Investigator - Dr. Peter Serrano
+    company: PI - Dr. Peter Serrano
     company_url: ''
     # company_logo: org-gc
     location: Hunter College, New York
@@ -32,7 +41,7 @@ experience:
     description: '' 
 
   - title: Researcher / Lab Coordinator, Emotion & Attention Regulation 
-    company: Principal Investigator - Dr. Tracy Dennis-Tiwary
+    company: PI - Dr. Tracy Dennis-Tiwary
     company_url: ''
     #company_logo: org-x
     location: Hunter College, New York
