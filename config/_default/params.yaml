@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Pernashee Dave. This work is licensed under {license}'
+    notice: '© {year} Pernashee S. Dave. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
