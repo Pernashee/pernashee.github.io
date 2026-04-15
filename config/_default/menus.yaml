@@ -8,5 +8,8 @@ main:
     url: /
     weight: 10
   - name: CV / Resumé
-    url: about/
+    url: resume/
+    weight: 20
+  - name: Statistics Course
+    url: stats/
     weight: 20
