@@ -12,4 +12,4 @@ main:
     weight: 20
   - name: Statistics Course
     url: stats/
-    weight: 20
+    weight: 30
